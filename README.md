@@ -1,1 +1,2 @@
 # Weather-website
+"Stay ahead of the elements with our Weather-website! Access real-time forecasts, detailed weather maps, and personalized updates tailored to your location. From daily forecasts to severe weather alerts, our site offers comprehensive information to plan your day with confidence. User-friendly interface and intuitive design make navigating weather data a breeze. Trust Weather-website for accurate, up-to-date weather information whenever you need it!"
